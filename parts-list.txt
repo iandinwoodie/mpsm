@@ -1,0 +1,4 @@
+2 x 2GT 16T timing pulley (5mm ID)
+3 x 2GT 16T idler pulley (3mm ID)
+2 x Igus RJ4JP-01-08
+5 x Igus RJMPT-01-06
