@@ -2,4 +2,8 @@
 3 x 2GT 16T idler pulley (ID: 3mm)
 2 x Igus RJ4JP-01-08
 5 x Igus RJMPT-01-06
-1 x 2GT 6mm belt (Length: 12in)
+1 x 2GT 6mm belt (length: 12in)
+2 x 8mm linear shaft (length: 187mm, tap thread: ?, tap depth: ?)
+3 x 6mm linear shaft (length: ?mm)
+1 x 6mm linear shaft (length: ?mm)
+1 x 6mm linear shaft (length: ?mm)
