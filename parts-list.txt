@@ -1,37 +1,153 @@
 # Timing Belts and Pulleys
 2 x 2GT 16T timing pulley (ID: 5mm, material: plastic)
 3 x 2GT 16T idler pulley (ID: 3mm, material: plastic)
-1 x 2GT timing belt (width: 6mm)
-? x belt tensioner
+1 x B234MXL-5 timing belt
+1 x 5mm 2GT timing belt (length: 240mm)
 
 # Linear Bearings
 2 x LM8LUU bearing
 5 x LM6LUU bearing
 
-# Linear Shafts
+# Shafts
 2 x 8mm linear shaft (length: 187mm, tap thread: ?, tap depth: ?)
 3 x 6mm linear shaft (length: ?mm)
 1 x 6mm linear shaft (length: ?mm)
 1 x 6mm linear shaft (length: ?mm)
+1 x 4mm threaded shaft (length: 190)mm
+1 x 3mm rotary shaft, grooved (length: 17mm, grooves: 15mm)
 
 # Washers
+2 x 3mm flat washer (OD: 7mm, thickness: 1mm)
+7 x 3mm flat washer (OD: 6mm, thickness: 0.6mm, finish: yellow zinc)
+1 x 3mm flat washer (OD: 6mm, thickness: 1mm)
+7 x 3mm split lock washer (OD: 5mm, finish: yellow zinc)
+2 x 3mm split lock washer (OD: 5mm, finish: black)
 4 x 4mm flat washer (OD: 8mm, thickness: 0.7mm)
 4 x 4mm split lock washer (OD: 6.75mm)
-1 x 3mm flat washer (OD: 7mm, thickness: 1mm)
+2 x 4mm flat washer, plastic (OD: 8.5mm, thickness: 2mm)
+4 x 3mm cap washer, for 8mm OD
+8 x 4mm flat washer (OD: 8mm, thickness: 0.6mm, finish: yellow zinc)
+8 x 4mm split lock washer (OD: 6mm, finish: yellow zinc)
 
-# Fasteners
+# Screws
 4 x M4 PHPS (length: 8mm)
-3 x M3 PHPS (length: 6mm, finish: black)
+8 x M4 PHPS (length: 10mm, finish: yellow zinc)
+5 x M3 PHPS (length: 6mm, finish: black)
+7 x M3 PHPS (length: 6mm, finish: yellow zinc)
 1 x M3 SHS (length: 6mm, finish: black)
-1 x M3 PHPS (length: 8mm, finish: black)
+1 x M3 SHS (length: 20mm)
+2 x M3 SHS (length: 16mm)
+3 x M3 PHPS (length: 8mm, finish: black)
+4 x M3 HDFHS (length: 16mm, angle: 90)
+4 x M3 HDRHS (length: 8mm)
+4 x M2.5 PHPS, for plastic (length: 13.5mm)
 1 x M3 FPHPS, for plastic (length: 6mm)
+2 x M3 PHPS, for plastic (length: 18mm)
 3 x M3 PHPS, for sheet metal (length: 6mm)
+5 x M3 PHPS, for sheet metal (length: 8mm)
 4 x M4 PHPS, for sheet metal (length: 8mm, finish: black)
-2 x M3 FPHPS, thread-forming (length: 8mm, finish: yellow zinc)
+4 x M3 FPHPS, thread-forming (length: 8mm, finish: yellow zinc)
 32 x M3 PHPS, thread-forming (length: 8mm, finish: black)
-5 x M3 PHPS, thread-forming (length: 6mm)
+10 x M3 PHPS, thread-forming (length: 6mm)
+6 x 1-64 PHPS (length: 3/8")
+
+
+# Nuts
+6 x M3 hex nut (height: 2.4mm)
+1 x M4 hex nut (height: 3mm)
+6 x 1-64 hex nut (height: 1/16")
+1 x M6 hex nut (height: 3mm)
+8 x M4 square nuts (height: 3mm)
+
+# Enclosure
+1 x bottom panel
+1 x z-axis front panel
+1 x z-axis rear panel
+1 x z-axis switch panel
+1 x x-axis switch panel
+1 x right side panel
+1 x left side panel
+1 x build platform panel
+1 x base panel
+1 x display support panel
+1 x display bezel panel
+
+# Motors
+2 x CF3925-100-SL (make: SL Motor)
+1 x CF4235-100-SL (make: SL Motor)
+1 x 4mm shaft unknown round z-axis stepper motor
+
+# Fans
+1 x LTH401012VH (size: 40mm, voltage: 12V DC, amperage: 0.10A)
+1 x LTH301012VH (size: 30mm, voltage: 12V DC, amperage: 0.08A)
+
+# Switches
+3 x TIAIHUA SPDT lever switch (voltage: 125V AC, amperage: 1A)
+1 x power SPST rocker switch
+
+# PCBs
+1 x mainboard
+1 x rotary encoder board
+1 x UI controller board
+1 x display panel
+
+# Platform
+1 x aluminum build plate
+1 x heated bed
+1 x buildtak sheet
+
+# Extruder
+1 x extruder arm
+1 x extruder base
+1 x extruder base plate
+1 x extruder gear
+
+# Hot End
+1 x fan shroud
+1 x heater block
+1 x heater block insulation
+1 x thermistor
+1 x nozzle (ID: 0.4mm)
+1 x heater cartridge
+1 x aluminum heatsink/heat break
+1 x heat sink front housing
+1 x heat sink rear housing
+1 x housing x-axis mount
+
+# Standoffs
+1 x M3 self clinching stadoff (height: 8mm)
+
+# Springs
+1 x spring (OD: 8mm, length: 19mm)
+4 x spring (OD: 7.5mm, length: 15mm)
+
+# Miscellaneous
+4 x rubber feet (OD: 12mm, thickness: 4mm)
+2 x belt tensioner
+2 x torsion springs
+4 x E-style retaining ring, for 3mm OD (thickness: ?)
+2 x aluminium bearing block, for 15mm OD
+1 x 10mm hex coupling (ID: 4mm, length: 20mm)
+2 x dual 6mm shaft stabilizer (through hole: M3)
+2 x dual 6mm shaft stabilizer, threaded (thread: M3)
+3 x 6mm shaft stabilizer (through hole: M3)
+3 x 6mm shaft stabilizer, threaded (thread: M3)
+1 x 3mm shaft U braket (thread: M3, width: 13.5mm)
+1 x PTFE tubing (OD: 4mm, ID: 2mm, length: 300mm)
+1 x plastic wire wrap
+2 x plastic wire retaining loop
+2 x 6mm bowden coupling, for 4mm OD
+1 x x-axis linear shaft endcap
+1 x z-axis lead nut housing
+1 x rubber grommet, circle (OD: ?, ID: ?)
+1 x rubber grommet, oval (OD: ?, ID: ?)
+1 x rotary encoder knob
+1 x power inlet connector
+1 x limit switch mount
 
 # Appendix
 FPHPS: flanged pan head phillips screw
 PHPS: pan head phillips screw
 SHS: socket head screw
+HDFHS: hex drive flat head screw
+HDRHS: hex driver round head screw
