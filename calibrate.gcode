@@ -1,6 +1,6 @@
-G21;(metric values)
-G90;(absolute positioning)
-G28;(Home the printer)
+G21;
+G90;
+G28;
 G1 F4800 Z1;
 G1 X5 Y5;
 G1 Z0;
