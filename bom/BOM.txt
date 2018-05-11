@@ -9,10 +9,10 @@
 5 x LM6LUU bearing
 
 # Shafts
-2 x 8mm linear shaft (length: 187mm, tap thread: ?, tap depth: ?)
-3 x 6mm linear shaft (length: ?mm)
-1 x 6mm linear shaft (length: ?mm)
-1 x 6mm linear shaft (length: ?mm)
+2 x 8mm linear shaft (length: 187.5mm, tap thread: 4mm, tap depth: 8mm)
+3 x 6mm linear shaft (length: 246mm)
+1 x 6mm linear shaft (length: 278mm)
+1 x 6mm linear shaft (length: 210mm)
 1 x 4mm threaded shaft (length: 190)mm
 1 x 3mm rotary shaft, grooved (length: 17mm, grooves: 15mm)
 
