@@ -1,9 +1,0 @@
-# Linear Bearings
-2 x Misumi LMUW6
-5 x Misumi LMUW8
-
-# Linear Shafts
-2 x Misumi PSFJW8-187-M4-N4
-3 x Misumi PSFJ6-246
-1 x Misumi PSFJ6-278
-1 x Misumi PSFJ6-210
