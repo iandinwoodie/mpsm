@@ -1,0 +1,112 @@
+quantity,manufacturer,part,material,details
+2,N/A,2GT 16T timing pulley,plastic,ID: 5mm
+3,N/A,2GT 16T idler pulley,platic,ID: 3mm
+1,JNOSUN,B234MXL-5 timing belt,rubber,"width: 0.25in, pitch: 0.08in, length: 9.5in"
+1,JNOSUN,B234MXL-5 timing belt,rubber,"width: 0.25in, pitch: 0.08in, length: ?"
+2,N/A,LM8LUU bearing,metal,"ID: 8mm, OD: 15mm, length: 45mm"
+5,N/A,LM6LUU bearing,metal,"OD: 6mm, OD: 12mm, length: 35mm"
+2,N/A,8mm linear shaft,metal,"length: 187.5mm, tap thread: 4mm, tap depth: 8mm, finish: mirror"
+3,N/A,6mm linear shaft,metal,"length: 246mm, finish: mirror"
+1,N/A,6mm linear shaft,metal,"length: 278mm, finish: mirror"
+1,N/A,6mm linear shaft,metal,"length: 210mm, finish: mirror"
+1,N/A,4mm threaded shaft,metal,length: 190mm
+1,N/A,3mm grooved rotary shaft,metal,"length: 17mm, groove-offset: 15mm"
+2,N/A,3mm flat washer,metal,"OD: 7mm, thickness: 1mm"
+7,N/A,3mm flat washer,metal,"OD: 6mm, thickness: 0.6mm, finish: yellow zinc"
+1,N/A,3mm flat washer,metal,"OD: 6mm, thickness: 1mm"
+7,N/A,3mm split lock washer,metal,"OD: 5mm, finish: yellow zinc"
+2,N/A,3mm split lock washer,metal,"OD: 5mm, finish: black"
+4,N/A,4mm flat washer,metal,"OD: 8mm, thickness: 0.7mm"
+4,N/A,4mm split lock washer,metal,OD: 6.75mm
+2,N/A,4mm flat washer,plastic,"OD: 8.5mm, thickness: 2mm"
+4,N/A,3mm cap washer for 8mm OD,metal,N/A
+8,N/A,4mm flat washer,metal,"OD: 8mm, thickness: 0.6mm, finish: yellow zinc"
+8,N/A,4mm split lock washer,metal,"OD: 6mm, finish: yellow zinc"
+4,N/A,M4 pan head phillips screw,metal,length: 8mm
+8,N/A,M4 pan head phillips screw,metal,"length: 10mm, finish: yellow zinc"
+5,N/A,M3 pan head phillips screw,metal,"length: 6mm, finish: black"
+7,N/A,M3 pan head phillips screw,metal,"length: 6mm, finish: yellow zinc"
+1,N/A,M3 socket head screw,metal,"length: 6mm, finish: black"
+1,N/A,M3 socket head screw,metal,length: 20mm
+2,N/A,M3 socket head screw,metal,length: 16mm
+3,N/A,M3 pan head phillips screw,metal,"length: 8mm, finish: black"
+4,N/A,M3 hex drive flat head screw,metal,"length: 16mm, angle: 90"
+4,N/A,M3 hex driver round head screw,metal,length: 8mm
+4,N/A,M2.5 pan head phillips screw for plastic,metal,length: 13.5mm
+1,N/A,M3 flanged pan head phillips screw for plastic,metal,"length: 6mm, for: plastic"
+2,N/A,M3 pan head phillips screw for plastic,metal,"length: 18mm, for: plastic"
+3,N/A,M3 pan head phillips screw for sheet metal,metal,length: 6mm
+5,N/A,M3 pan head phillips screw for sheet metal,metal,length: 8mm
+4,N/A,M4 pan head phillips screw for sheet metal,metal,"length: 8mm, finish: black"
+4,N/A,M3 flanged pan head phillips screw thread-forming,metal,"length: 8mm, finish: yellow zinc"
+32,N/A,M3 pan head phillips screw thread-forming,metal,"length: 8mm, finish: black"
+10,N/A,M3 pan head phillips screw thread-forming,metal,length: 6mm
+6,N/A,1-64 pan head phillips screw,metal,length: 0.375in
+6,N/A,M3 hex nut,metal,height: 2.4mm
+1,N/A,M4 hex nut,metal,height: 3mm
+6,N/A,1-64 hex nut,metal,height: 0.0625in
+1,N/A,M6 hex nut,metal,height: 3mm
+8,N/A,M4 square nut,metal,height: 3mm
+1,Monoprice,bottom panel,metal,finish: black
+1,Monoprice,z-axis front panel,metal,finish: painted
+1,Monoprice,z-axis rear panel,metal,finish: painted
+1,Monoprice,z-axis switch panel,metal,finish: black
+1,Monoprice,x-axis switch panel,metal,finish: black
+1,Monoprice,right side panel,metal,finish: painted
+1,Monoprice,left side panel,metal,finish: painted
+1,Monoprice,y-axis platform,metal,finish: black
+1,Monoprice,main body panel,metal,finish: painted
+1,Monoprice,display bezel panel,plastic,finish: painted
+2,SL Motor,CF3925-100-SL stepper motor,metal,NEMA: 17
+1,SL Motor,CF4235-100-SL stepper motor,metal,NEMA: 17
+1,N/A,round stepper motor,metal,shaft OD: 3mm
+1,Longtenghua,LTH401012VH,plastic,"size: 40mm, voltage: 12V DC, amperage: 0.10A"
+1,Longtenghua,LTH301012VH,plastic,"size: 30mm, voltage: 12V DC, amperage: 0.08A"
+3,TIAIHUA,SPDT lever switch,plastic,"voltage: 125V AC, amperage: 1A"
+1,N/A,SPST power rocker switch,plastic,N/A
+1,Monoprice,mainboard,PCB,N/A
+1,N/A,rotary encoder board,PCB,N/A
+1,Monoprice,UI controller board,PCB,N/A
+1,N/A,display panel,LCD,N/A
+1,Monoprice,build plate,aluminum,"length: 120mm, width: 120mm, finish: brushed"
+1,Monoprice,heated bed,PCB,N/A
+1,N/A,buildtak sheet,buildtak,"length: ?, width: 120mm"
+1,Monoprice,extruder arm,plastic,N/A
+1,Monoprice,extruder base,plastic,N/A
+1,Monoprice,extruder base plate,metal,finish: black
+1,N/A,extruder gear,metal,ID: 5mm
+1,Monoprice,fan shroud,plastic,N/A
+1,N/A,heater block,metal,N/A
+1,N/A,heater block insulation,N/A,N/A
+1,N/A,thermistor,metal,N/A
+1,N/A,nozzle,metal,ID: 0.4mm
+1,N/A,heater cartridge,metal,N/A
+1,N/A,heatsink,aluminum,N/A
+1,N/A,heat break,metal,N/A
+1,Monoprice,heat sink front housing,plastic,N/A
+1,Monoprice,heat sink rear housing,plastic,N/A
+1,Monoprice,housing x-axis mount,plastic,N/A
+1,N/A,M3 self clinching stadoff,metal,height: 8mm
+1,N/A,spring,metal,"OD: 8mm, length: 19mm"
+4,N/A,spring,metal,"OD: 7.5mm, length: 15mm"
+4,N/A,vibraton dampening pads,rubber,"OD: 12mm, thickness: 4mm"
+2,N/A,torsion springs,metal,N/A
+4,N/A,E-style retaining ring for 3mm OD,metal,thickness: ?
+2,N/A,bearing block for 15mm OD,aluminum,N/A
+1,N/A,10mm hex coupling,plastic,"ID: 4mm, length: 20mm"
+2,Monoprice,dual 6mm shaft stabilizer,metal,through hole: M3
+2,Monoprice,dual 6mm shaft stabilizer,metal,thread: M3
+3,Monoprice,6mm shaft stabilizer,metal,through hole: M3
+3,Monoprice,6mm shaft stabilizer,metal,thread: M3
+1,N/A,3mm shaft U bracket,metal,"thread: M3, width: 13.5mm"
+1,N/A,tubing,PTFE,"OD: 4mm, ID: 2mm, length: 300mm"
+1,N/A,wire wrap,plastic,N/A
+2,N/A,wire retaining loop,plastic,N/A
+2,N/A,6mm bowden coupling for 4mm OD,brass,N/A
+1,Monoprice,x-axis linear shaft endcap,plastic,N/A
+1,Monoprice,z-axis lead nut housing,plastic,N/A
+1,N/A,circle grommet,rubber,"OD: ?, ID: ?"
+1,N/A,oval grommet,rubber,"OD: ?, ID: ?"
+1,Monoprice,rotary encoder knob,plastic,N/A
+1,N/A,power inlet connector,plastic,N/A
+1,N/A,limit switch mount,N/A,N/A
