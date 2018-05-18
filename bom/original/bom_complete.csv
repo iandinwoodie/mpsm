@@ -1,6 +1,6 @@
 quantity,manufacturer,part,material,details
-2,N/A,2GT 16T timing pulley,plastic,ID: 5mm
-3,N/A,2GT 16T idler pulley,platic,ID: 3mm
+2,N/A,MXL 16T timing pulley,plastic,"bore: 5mm, pitch: 0.08in"
+3,N/A,MXL 16T idler pulley,platic,"bore: 3mm, pitch: 0.08in"
 1,JNOSUN,B234MXL-5 timing belt,rubber,"width: 0.25in, pitch: 0.08in, length: 9.5in"
 1,JNOSUN,B234MXL-5 timing belt,rubber,"width: 0.25in, pitch: 0.08in, length: ?"
 2,N/A,LM8LUU bearing,metal,"ID: 8mm, OD: 15mm, length: 45mm"
